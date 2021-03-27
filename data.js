@@ -1,52 +1,52 @@
 export default [
   {
     "name": "David",
-    "profielId": "83400e947276d20b",
+    "profielId": "1",
     "pic": "./images/pic1.jpg"
   },
   {
     "name": "Polo",
-    "profielId": "9d2c6535dc61d3b6",
+    "profielId": "2",
     "pic": "./images/pic2.jpg"
   },
   {
     "name": "James",
-    "profielId": "066f952bb6793d2b",
+    "profielId": "3",
     "pic": "./images/pic3.jpg"
   },
   {
     "name": "Arush",
-    "profielId": "8276cdc5acba8b49",
-    "pic": "./images/pic3.jpg"
+    "profielId": "4",
+    "pic": "./images/pic4.jpg"
   },
   {
     "name": "Ariv",
-    "profielId": "223bb8ebe75df8d0",
-    "pic": "./images/pic1.jpg"
+    "profielId": "5",
+    "pic": "./images/pic5.jpg"
   },
   {
     "name": "Ayansh",
-    "profielId": "0cd0c0cc57b4b36b",
-    "pic": "./images/pic2.jpg"
+    "profielId": "6",
+    "pic": "./images/pic6.jpg"
   },
   {
     "name": "Akash",
-    "profielId": "08cff1b7bea99649",
-    "pic": "./images/pic3.jpg"
+    "profielId": "7",
+    "pic": "./images/pic7.jpg"
   },
   {
     "name": "Sravan",
-    "profielId": "8560c47cdd63ea70",
-    "pic": "./images/pic1.jpg"
+    "profielId": "8",
+    "pic": "./images/pic8.jpg"
   },
   {
     "name": "Fedric",
-    "profielId": "6df93622f7f5fb61",
-    "pic": "./images/pic2.jpg"
+    "profielId": "9",
+    "pic": "./images/pic9.jpg"
   },
   {
     "name": "Pranav",
-    "profielId": "03f24a020b744ac6",
-    "pic": "./images/pic3.jpg"
+    "profielId": "10",
+    "pic": "./images/pic10.jpg"
   }
 ]
