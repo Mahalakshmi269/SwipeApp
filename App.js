@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 import { Card, Button, Icon } from 'react-native-elements';
 import profiles from './data';
+import Swipe from './Swipe';
 
 class App extends Component {
   state = {
@@ -68,7 +69,14 @@ class App extends Component {
           <Text style={styles.displayTextStyle}>Right Click(s): {this.state.rightClicks}</Text>
           <Text style={styles.displayTextStyle}>Left Click(s): {this.state.leftClicks}</Text>
         </View> : null        
-        {this.renderProfiles}
+        <Swipe
+          onSwipeRight={this.handleRightClick}
+          onSwipeLeft={this.handleLeftClick}
+          keyProp="profileId"
+          data={profiles}
+          renderCard={this.renderProfiles}
+          renderNoMoreCards={this.renderNoMoreProfiles}
+        />
       </SafeAreaView>
     );
   }

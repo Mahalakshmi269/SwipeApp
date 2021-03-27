@@ -1,52 +1,52 @@
 export default [
   {
     "name": "David",
-    "profielId": "1",
+    "profileId": "1",
     "pic": "./images/pic1.jpg"
   },
   {
     "name": "Polo",
-    "profielId": "2",
+    "profileId": "2",
     "pic": "./images/pic2.jpg"
   },
   {
     "name": "James",
-    "profielId": "3",
+    "profileId": "3",
     "pic": "./images/pic3.jpg"
   },
   {
     "name": "Arush",
-    "profielId": "4",
+    "profileId": "4",
     "pic": "./images/pic4.jpg"
   },
   {
     "name": "Ariv",
-    "profielId": "5",
+    "profileId": "5",
     "pic": "./images/pic5.jpg"
   },
   {
     "name": "Ayansh",
-    "profielId": "6",
+    "profileId": "6",
     "pic": "./images/pic6.jpg"
   },
   {
     "name": "Akash",
-    "profielId": "7",
+    "profileId": "7",
     "pic": "./images/pic7.jpg"
   },
   {
     "name": "Sravan",
-    "profielId": "8",
+    "profileId": "8",
     "pic": "./images/pic8.jpg"
   },
   {
     "name": "Fedric",
-    "profielId": "9",
+    "profileId": "9",
     "pic": "./images/pic9.jpg"
   },
   {
     "name": "Pranav",
-    "profielId": "10",
+    "profileId": "10",
     "pic": "./images/pic10.jpg"
   }
 ]
